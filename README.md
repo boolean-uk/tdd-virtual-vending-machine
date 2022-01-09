@@ -15,7 +15,7 @@ In this exercise, you need to write code that simulates a [vending machine](http
 4. Repeat until you've finished.
 
 ### Requirements
-Take a moment to think about and note down the inputs and outputs of a vending machine. There are multiple ways you could modelling these in your code.  Also consider how you use a vending machine, the multiple steps you take to buy an item: enter an item code, add the money, receive the item. How could you model these steps in your code? There is no "correct" answer to these questions, try to consider the different approaches and benefits and drawbacks of each one. If you were using this code, how would you expect it to work?
+Take a moment to think about and note down the inputs and outputs of a vending machine. There are multiple ways you could model these in your code.  Also consider how you use a vending machine, the multiple steps you take to buy an item: enter an item code, add the money, receive the item. How could you model these steps in your code? There is no "correct" answer to these questions. Try to consider the different approaches and various benefits and drawbacks. If you were using this code, how would you expect it to work?
 
 > Note: for storing change, you don't need to consider individual coins. You can simply maintain a total of the current change available.
 
